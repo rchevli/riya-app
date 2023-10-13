@@ -1,2 +1,2 @@
 # riya-app
-my first project repository
+my first Coursera react project 
